@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\..\\Projects\\Team Project\\Data accuracy model"
+		},
+		{
+			"path": "..\\Flask-file-upload-main"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Flask-file-upload-main",
+		"liveServer.settings.useLocalIp": true
+	}
+}

@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dataset accuray model</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/mystyles.css')}}" media="screen">
+
+</head>
+
+<body >
+    
+    <h1 style="text-align:center">Dataset Accuracy Model</h1>
+
+    <marquee behavior="alternate" BGCOLOR=black>
+        <h4>An interactive framework to check accuracy of a data set</h4>
+    </marquee>
+
+    <form action = "/success" method = "post" enctype="multipart/form-data">  
+        <input class="indent" type="file" name="file">  
+        <input type = "submit" value="Upload">  
+    </form> 
+    <a href="about">
+        <h5>Click here to see more about the model! </h5>
+    </a>
+
+</body>
+
+
+</html>

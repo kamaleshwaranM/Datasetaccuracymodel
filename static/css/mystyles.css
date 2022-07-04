@@ -1,0 +1,28 @@
+body {
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-image:  url("images/bg.jpg");
+    
+}
+
+h1 {
+    color: rgb(26, 25, 25);
+    text-shadow: 2px 2px;
+    font-size: 50px;
+}
+
+h4 {
+    color: rgb(255, 255, 255);
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+
+h5 {
+    color: rgb(0, 0, 0);
+    font-family: "Lucida Console", "Courier New", monospace;
+    text-align: center;
+}
+
+a{
+    text-decoration: none;
+    margin: 200px;
+}
